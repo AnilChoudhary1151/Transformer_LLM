@@ -3,10 +3,10 @@
 ## Dataset Used:
 The dataset used for training and evaluation is sourced from [Link](https://ai4bharat.iitm.ac.in//samanantar/).
 
-### transformer.py
+## transformer.py
 This file contains the complete implementation of the transformer model.
 
-### transformer_running_file.ipynb
+## transformer_running_file.ipynb
 In this notebook, we perform the following tasks:
 1. Create a dataset for training by tokenizing the data.
 2. Train the model using 2 million data points and 12 epochs.
